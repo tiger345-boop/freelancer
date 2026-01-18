@@ -24,8 +24,7 @@ We are a fully asynchronous tech company (GitLab-style). We value **skills**, no
 2.  **🤖 No Bots:** This filter protects us from spam and agencies. We look for real humans.
     *Этот фильтр защищает нас от спама. Мы ищем реальных людей.*
 
-3.  **🔒 Secure Payment:** We work strictly through **Safe Pay/Escrow** on freelance platforms. This repository is only to introduce you to our rules and workflow.
+3.  **🔒 Secure Payment:** We work strictly through **Safe Pay** on freelance platforms. This repository is only to introduce you to our rules and workflow.
     *Мы работаем строго через **безопасную сделку** на биржах фриланса. Здесь мы просто хотим познакомить вас с нашими правилами и процессом.*
 
----
-*Global Operations Team*
+GreatApp Team
